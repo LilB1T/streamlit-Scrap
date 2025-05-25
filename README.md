@@ -112,4 +112,3 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 📄 License
 MIT
 
-Let me know if you'd like this in a downloadable .md file or if you want a requirements.txt and app.py template too.
