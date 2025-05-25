@@ -1,0 +1,982 @@
+[
+  {
+    "id":1,
+    "title":"Data Analyst",
+    "company":"UBL - United Bank Limited",
+    "location":"Karachi Division, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":2,
+    "title":"Marketing Business Intelligence (BI) Analyst",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":3,
+    "title":"Data Analyst",
+    "company":"S&P Global",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"2 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":4,
+    "title":"Business Intelligence Analyst",
+    "company":"foodpanda",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"5 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":5,
+    "title":"Data Analyst",
+    "company":"Zameen.com",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"2 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":6,
+    "title":"Data Analyst, Transcripts",
+    "company":"S&P Global",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":7,
+    "title":"Data Analytics and Reporting Specialist",
+    "company":"HugoBank",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"2 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":8,
+    "title":"Data Analyst",
+    "company":"Assembly Talent",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":9,
+    "title":"Data Analyst",
+    "company":"Vyro",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":10,
+    "title":"Research Executive - Quantitative",
+    "company":"NielsenIQ",
+    "location":"Karachi Division, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"1 day ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":11,
+    "title":"Data Analyst",
+    "company":"CureMD",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":12,
+    "title":"Data Engineer",
+    "company":"Next Generation Innovations (NextGENi)",
+    "location":"Karachi Division, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"2 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":13,
+    "title":"Data Analyst, Bank Rates",
+    "company":"S&P Global",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"2 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":14,
+    "title":"Data Research Intern",
+    "company":"PakWheels.com",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"3 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":15,
+    "title":"Data Analyst",
+    "company":"Translation Empire PK",
+    "location":"Rawalpindi, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":16,
+    "title":"Data\/Business Analyst",
+    "company":"Kavak.com",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"3 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":17,
+    "title":"Business Intelligence Analyst",
+    "company":"Zameen.com",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"2 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":18,
+    "title":"Data Engineer",
+    "company":"Convo",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"2 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":19,
+    "title":"Data Analyst",
+    "company":"Eon",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 day ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":20,
+    "title":"Business Intelligence Analyst.",
+    "company":"Tripshepherd",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":21,
+    "title":"Data Research Executive",
+    "company":"PakWheels.com",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":22,
+    "title":"Data Annotation Specialist",
+    "company":"Ryz Labs",
+    "location":"Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"3 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":23,
+    "title":"Mid Data Analyst",
+    "company":"Translation Empire PK",
+    "location":"Rawalpindi, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":24,
+    "title":"Excel Specialist for Shopify (RVA)",
+    "company":"RemoteVA",
+    "location":"Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":25,
+    "title":"Senior Business Intelligence Analyst",
+    "company":"Dubizzle Labs",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 day ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":26,
+    "title":"Marketing Operations Data Analyst",
+    "company":"XTIUM",
+    "location":"Pakistan",
+    "skills":"General",
+    "date_posted":"2 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":27,
+    "title":"Offshore Competitive Intelligence Analyst",
+    "company":"ibex. Pakistan",
+    "location":"Karachi Division, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":28,
+    "title":"Reporting Dashboard Developer",
+    "company":"Translation Empire PK",
+    "location":"Rawalpindi, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":29,
+    "title":"Data Engineer, Tech",
+    "company":"ibex",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"2 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":30,
+    "title":"Data Annotator",
+    "company":"micro1",
+    "location":"Pakistan",
+    "skills":"General",
+    "date_posted":"1 day ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":31,
+    "title":"Marketing Data Analyst",
+    "company":"dinCloud Pakistan, An ATSG Company",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":32,
+    "title":"Data Analyst (Annotator)",
+    "company":"Cowlar Design Studio",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"2 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":33,
+    "title":"Data Analyzer, Record Keeper Institute of Microbiology",
+    "company":"Government  College University, Faisalabad",
+    "location":"Faisalabad, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"4 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":34,
+    "title":"Data Operations Associate",
+    "company":"Octus",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"2 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":35,
+    "title":"Business Intelligence Analyst",
+    "company":"Buy Box Experts",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":36,
+    "title":"Data Analyst- Real Estate Industry Content",
+    "company":"S&P Global",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"2 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":37,
+    "title":"Interested in joining our team?",
+    "company":"Motive",
+    "location":"Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":38,
+    "title":"Senior Data Analyst",
+    "company":"Translation Empire PK",
+    "location":"Rawalpindi, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":39,
+    "title":"Database Engineer",
+    "company":"Stewart Pakistan Private Limited",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":40,
+    "title":"Data Center Engineer",
+    "company":"Stewart Pakistan Private Limited",
+    "location":"Lahore District, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":41,
+    "title":"Lead Data Analyst - Data Operations",
+    "company":"S&P Global",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"5 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":42,
+    "title":"Data Engineer",
+    "company":"Creative Chaos",
+    "location":"Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":43,
+    "title":"Research Assistant (Data Analyst)",
+    "company":"VecGen AI",
+    "location":"Multan, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"14 hours ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":44,
+    "title":"Data Engineer",
+    "company":"Leed | Pakistan",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":45,
+    "title":"Data Collector (Rota Virus), Department of Community Health Sciences\nMedical College",
+    "company":"AKU Centre for Regenerative Medicine and Stem Cell Research",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":46,
+    "title":"Data Science Engineer",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"Data Science",
+    "date_posted":"3 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":47,
+    "title":"Data Engineering Intern (Leading to Full-time Role)",
+    "company":"Avanceon Middle East & South Asia",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"2 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:33:09"
+  },
+  {
+    "id":48,
+    "title":"Front-End Developer",
+    "company":"Spiralyze",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":49,
+    "title":"Front-end Developer in Karachi | Webnet Pakistan",
+    "company":"Webnet Pakistan Pvt Ltd",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"2 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":50,
+    "title":"Junior\/Mid Level Backend Developer",
+    "company":"Esevel",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"1 year ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":51,
+    "title":"Front-End Developer",
+    "company":"Spiralyze",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"3 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":52,
+    "title":"Associate Software Engineer - Open Stack",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"4 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":53,
+    "title":"Associate Software Engineer",
+    "company":"Dubizzle Labs",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":54,
+    "title":"Associate Software Engineer- Unity",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":55,
+    "title":"Front-end Developer",
+    "company":"ibex",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"2 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":56,
+    "title":"Software Engineer - Fresh - 2024\/25",
+    "company":"Arkhitech",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"2 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":57,
+    "title":"Software Engineer- MERN",
+    "company":"Devsinc",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":58,
+    "title":"Software Engineer - Fresh - 2024\/25",
+    "company":"Arkhitech",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"2 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":59,
+    "title":"Software Engineer- NodeJs",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":60,
+    "title":"Junior Frontend Developer",
+    "company":"Convo",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"3 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":61,
+    "title":"Software Engineer - Backend",
+    "company":"Motive",
+    "location":"Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":62,
+    "title":"Associate Software Engineer - PHP Laravel",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"PHP, Laravel",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":63,
+    "title":"Software Engineer - Laravel",
+    "company":"Dubizzle Labs",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"Laravel",
+    "date_posted":"6 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":64,
+    "title":"Software Engineer - Node JS",
+    "company":"Dubizzle Labs",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"4 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":65,
+    "title":"MERN Stack Developer",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"2 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":66,
+    "title":"Associate Software Engineer- Python",
+    "company":"Devsinc",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"Python",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":67,
+    "title":"Associate Software Engineer - MERN",
+    "company":"Devsinc",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":68,
+    "title":"Front-End Developer (React.js) - 0519 - Islamabad, Pakistan",
+    "company":"Bionic Talent",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"React",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":69,
+    "title":"Associate Software Engineer- MERN",
+    "company":"Devsinc",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"3 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":70,
+    "title":"Fullstack Developer (Onsite, Lahore, PKR Salary)",
+    "company":"HR POD Careers",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"2 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":71,
+    "title":"Full Stack Web Developer",
+    "company":"S&P Global",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":72,
+    "title":"Front-End Developer (React.js) - 0519 - Karachi, Pakistan",
+    "company":"Bionic Talent",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"React",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":73,
+    "title":"Associate Software Engineer- Python\/ React",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"Python, React",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":74,
+    "title":"Software Engineer",
+    "company":"hashpotato",
+    "location":"Karachi Division, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"3 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":75,
+    "title":"Back-End API Developer",
+    "company":"Frontline Data Solutions",
+    "location":"Pakistan",
+    "skills":"General",
+    "date_posted":"2 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":76,
+    "title":"Application Developer",
+    "company":"Crescent Steel and Allied Products Limited",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"2 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":77,
+    "title":"Intermediate Full-Stack Software Developer",
+    "company":"LetHub",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"5 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":78,
+    "title":"Full Stack Developer",
+    "company":"PakWheels.com",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"7 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":79,
+    "title":"Unity Game Developer",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"4 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":80,
+    "title":"Engineer, Application Development",
+    "company":"S&P Global",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 day ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":81,
+    "title":"Software Developer",
+    "company":"Contour Software",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"General",
+    "date_posted":"2 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":82,
+    "title":"Associate Software Engineer- Data Engineer",
+    "company":"Devsinc",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":83,
+    "title":"Full-Stack Developer - Dot Net & Angular",
+    "company":"Hul Hub Pakistan",
+    "location":"Karachi Division, Sindh, Pakistan",
+    "skills":"Angular",
+    "date_posted":"7 months ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":84,
+    "title":"Full Stack Developer",
+    "company":"Retailo Technologies",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":85,
+    "title":"Software Engineer-Python\/Django",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"Python, Django",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":86,
+    "title":"Front-End Developer (React.js) - 0519 - Lahore, Pakistan",
+    "company":"Bionic Talent",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"React",
+    "date_posted":"1 week ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":87,
+    "title":"Mobile Application Developer (Fresh)",
+    "company":"Dubizzle Labs",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"6 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":88,
+    "title":"web developer",
+    "company":"Reamarc.io",
+    "location":"Rawalpindi, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":89,
+    "title":"Associate Software Engineer - AI\/ML",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"AI",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":90,
+    "title":"Associate Software Engineer- AI\/ML",
+    "company":"Devsinc",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"AI",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":91,
+    "title":"Software Engineer",
+    "company":"Kodifly",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"3 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":92,
+    "title":"Laravel Developer",
+    "company":"Hybrid Mediaworks",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"Laravel",
+    "date_posted":"2 weeks ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":93,
+    "title":"Java Developer - Spring Boot (Onsite, Karachi, PKR Salary)",
+    "company":"HR POD Careers",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"Java",
+    "date_posted":"2 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":94,
+    "title":"Software Engineer",
+    "company":"Enghouse Interactive",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"3 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":95,
+    "title":"Associate Software Engineer - Data Science",
+    "company":"Devsinc",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"Data Science",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":96,
+    "title":"Software Engineer- ROR",
+    "company":"Devsinc",
+    "location":"Lahore, Punjab, Pakistan",
+    "skills":"General",
+    "date_posted":"1 month ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 01:36:07"
+  },
+  {
+    "id":97,
+    "title":"Data Engineer II, Marketing & Data Technology",
+    "company":"S&P Global",
+    "location":"Islamabad, Isl\u0101m\u0101b\u0101d, Pakistan",
+    "skills":"General",
+    "date_posted":"1 hour ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 12:12:54"
+  },
+  {
+    "id":98,
+    "title":"Data Science Engineer",
+    "company":"Habib Bank AG Zurich",
+    "location":"Kar\u0101chi, Sindh, Pakistan",
+    "skills":"Data Science",
+    "date_posted":"5 days ago",
+    "source":"LinkedIn",
+    "scraped_at":"2025-05-25 12:12:54"
+  }
+]
